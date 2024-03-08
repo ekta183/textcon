@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textcon/static/css/main.073c9b0a.css",
+    "main.js": "/textcon/static/js/main.aa57e1ae.js",
+    "static/js/787.cea5d9a3.chunk.js": "/textcon/static/js/787.cea5d9a3.chunk.js",
+    "index.html": "/textcon/index.html",
+    "main.073c9b0a.css.map": "/textcon/static/css/main.073c9b0a.css.map",
+    "main.aa57e1ae.js.map": "/textcon/static/js/main.aa57e1ae.js.map",
+    "787.cea5d9a3.chunk.js.map": "/textcon/static/js/787.cea5d9a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.aa57e1ae.js"
+  ]
+}
